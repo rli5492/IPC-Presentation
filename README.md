@@ -14,4 +14,4 @@ See Injuries Based on Month at http://rli5492.github.io/IPC-Presentation/InjuryM
 
 See Injuries based on ethncity at http://rli5492.github.io/IPC-Presentation/EthnicityPie.html
 
-See Injuries Types over time at http://rli5492.github.io/IPC-Presentation/InjuryTrend.html
+See Injuries Types over time at http://rli5492.github.io/IPC-Presentation/InjuryTrend2007.html
