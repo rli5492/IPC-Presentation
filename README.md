@@ -11,3 +11,5 @@ See Injuries based on Day at http://rli5492.github.io/IPC-Presentation/InjuryDay
 See Injuries Based on Time of Day http://rli5492.github.io/IPC-Presentation/InjuryTime.html
 
 See Injuries Based on Month at http://rli5492.github.io/IPC-Presentation/InjuryMonth.html
+
+See Injuries based on ethncity at http://rli5492.github.io/IPC-Presentation/EthnicityPie.html
