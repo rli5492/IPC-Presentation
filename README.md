@@ -37,4 +37,7 @@ http://rli5492.github.io/IPC-Presentation/InjuryTrend20012.html
 Combined Years
 http://rli5492.github.io/IPC-Presentation/InjuryTrendAll.html
 
+Combined Patients
+http://rli5492.github.io/IPC-Presentation/InjuryTrendTrend.html
+
 See injuries Based on Mean Age at http://rli5492.github.io/IPC-Presentation/BarMeanAge.html
